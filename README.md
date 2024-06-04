@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 💫 About Me:
+🔭 Şu anda [Proje/Şirket/Okul] üzerinde çalışıyorum<br>🌱 [Yeni Öğrendiğiniz Teknoloji/Beceri] öğreniyorum<br>👯 İş birliği yapmak için açık olduğum konular: [Projeler/Alanlar]<br>🤔 Yardım aradığım konular: [Konular]<br>💬 Bana [Uzmanlık Alanlarınız] konularında soru sorabilirsiniz<br>📫 Bana ulaşın: [E-posta adresiniz]<br>⚡ Eğlenceli gerçek: [Eğlenceli veya ilginç bir gerçek]
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/[KullanıcıAdınız]) [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/[KullanıcıAdınız])
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=[KullanıcıAdınız]&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=[KullanıcıAdınız]&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=[KullanıcıAdınız]&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=[KullanıcıAdınız]&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=[KullanıcıAdınız]&icon=0&color=0)](https://visitcount.itsvg.in)
