@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🌱 I am currently learning Python and PHP.<br>👯 I am open to collaborating on projects related to web development with PHP and data analysis with Python.
- <br>
- <br>⚡ Fun Fact: "99.9% of the DNA of every human being is identical. However, the remaining 0.1% is what makes each of us unique!"
+🌱 I am currently learning Python and PHP, focusing on expanding my skills in both back-end and front-end development. I am open to collaborating on projects that involve web development using PHP and performing data analysis with Python. Furthermore, I have a keen interest in blockchain technology and artificial intelligence, and I am excited about exploring the possibilities these fields offer.
+ <br> 
 
 ## 📫 Contact me: 
 [![Mail Badge](https://img.shields.io/badge/email-email@example.com-red?style=for-the-badge)](mailto:fatmakarayegin@gmail.com)
@@ -29,6 +28,11 @@ Here are some ideas to get you started:
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
+## 🎯 Interests
+- 🌐 **Blockchain:** Exploring the world of decentralized technologies and cryptocurrencies.
+- 🤖 **Artificial Intelligence:** Delving into machine learning algorithms, neural networks, and data-driven solutions.
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=FatmaYgn&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FatmaYgn&theme=dark&hide_border=false)<br/>
@@ -36,6 +40,9 @@ Here are some ideas to get you started:
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FatmaYgn&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+
+## ⚡ Fun Fact: 
+"99.9% of the DNA of every human being is identical. However, the remaining 0.1% is what makes each of us unique!"
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
