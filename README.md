@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🌱 I am currently learning Python and PHP, focusing on expanding my skills in both back-end and front-end development. I am open to collaborating on projects that involve web development using PHP and performing data analysis with Python. Furthermore, I have a keen interest in blockchain technology and artificial intelligence, and I am excited about exploring the possibilities these fields offer.
+🌱 I graduated from the Department of Computer Education and Instructional Technology at Middle East Technical University (METU), driven by a strong passion for data science and analysis. As a data scientist candidate, I aim to develop my expertise in this area, utilizing my detail-oriented approach and analytical mindset to effectively understand and interpret data. As I enhance my skills, I am dedicated to engaging in meaningful projects that will enrich my knowledge and enable me to contribute to impactful, data-driven solutions.
+
  <br> 
 
 ## 📫 Contact me: 
@@ -26,12 +27,14 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/fatmayegin)
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%23007396.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SAS Viya](https://img.shields.io/badge/sas%20viya-%230076C6.svg?style=for-the-badge&logo=sas&logoColor=white)
+
+
+
 
 ## 🎯 Interests
-- 🌐 **Blockchain:** Exploring the world of decentralized technologies and cryptocurrencies.
-- 🤖 **Artificial Intelligence:** Delving into machine learning algorithms, neural networks, and data-driven solutions.
-
+- 🌐 **Data Visualization:** Creating intuitive visual representations of complex datasets to communicate insights effectively.
+- 🤖 **Big Data Technologies:** Learning about tools and frameworks that handle large-scale data processing and analysis.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=FatmaYgn&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
